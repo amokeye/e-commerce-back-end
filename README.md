@@ -3,6 +3,9 @@
 ### Description
 This E-Commerce Back End application allows the user to see "behind the scenes" (otherwise known as the back end) of constructing an e-commerce application. This application includes data for categories, products, and associated tags.
 
+### Built With
+* Testing
+
 ### Installation
 After the user provides their MySQL credentials, ensures that the schema are in place, seeds the schema via the VS Code terminal, and runs the server, the application begins listening on the appropriate port. See snippets of commands below for sourcing the schema and running seeds:
 
