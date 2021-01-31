@@ -7,7 +7,7 @@ This E-Commerce Back End application allows the user to see "behind the scenes" 
 After the user provides their MySQL credentials, ensures that the schema are in place, seeds the schema via the VS Code terminal, and runs the server, the application begins listening on the appropriate port. See snippets of commands below for sourcing the schema and running seeds:
 
 *Setting Schema*<br>
-![image](https://user-images.githubusercontent.com/67798512/106390325-adfcb580-639c-11eb-9808-03abdcb9627e.png)<br>
+![image](https://user-images.githubusercontent.com/67798512/106390797-0cc32e80-639f-11eb-886f-08f1525d6ea9.png)<br>
 <br>
 *Running Seeds*<br>
 ![image](https://user-images.githubusercontent.com/67798512/106390347-dc7a9080-639c-11eb-999a-9f83b00ac7af.png)<br>
