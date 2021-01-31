@@ -15,3 +15,7 @@ After the user provides their MySQL credentials, ensures that the schema are in 
 ### Demonstration
 GET (all items and items by their ID's), POST, PUT, and DELETE routes were created for the application. The functionality of the routes was tested using Insomnia Core. 
 [Click here](https://drive.google.com/file/d/1EQsRDQqTL_V7u1asN2W1toIxvuU4W080/view) for a video walkthrough of the working application!
+
+### Contact
+With any questions, please contact me via email: Amokeye91@gmail.com<br>
+Or via Github. I've included [this link](https://github.com/amokeye) for easier access to my Github page. Thank you! :smiley:
